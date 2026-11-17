@@ -1,20 +1,8 @@
-# Python
+.env
+venv/
 __pycache__/
 *.pyc
-venv/
-.env
-
-# Django
-db.sqlite3
-media/
-
-# React / Node
 node_modules/
 dist/
 build/
 
-# IDE
-.vscode/
-
-# Système
-.DS_Store
